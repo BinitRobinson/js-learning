@@ -21,10 +21,21 @@
 //""=>false
 //"binit"=>true
 
-let number=33;
-let stringnumber=String(number);
-console.log(stringnumber);
-console.log(typeof stringnumber);
+//let number=33;
+//let stringnumber=String(number);
+//console.log(stringnumber);
+//console.log(typeof stringnumber);
+
+//***************operations in javascript */
+let value =3;
+let negvalue=-value;
+//console.log(negvalue);
+
+
+let str1="hello";
+let str2=" binit";
+let str3= str1+str2;
+console.log(str3);
 
 
 
